@@ -2,4 +2,4 @@
 This is my first Repository
 <br>
 
-Auther - Rabinarayan Jena
+Auther - Rabinarayan Jena(Apna college)
